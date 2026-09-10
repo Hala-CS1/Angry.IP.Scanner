@@ -13,7 +13,7 @@ A hands-on report analyzing **Angry IP Scanner**, comparing it with other networ
 * 🟢 **Green:** Active host with open ports.
 
 ## Files
-Report
+Angry IP Scanner Report
 
 ## Course
 Introduction to Cybersecurity
